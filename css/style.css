@@ -1,0 +1,59 @@
+img.center-img {
+	display: block;
+	margin: 10px auto;
+	width: 400px;
+}
+
+img.round-img {
+	border-radius: 100%;
+}
+
+
+li.plan-head,
+li.main-price {
+	border-radius: 8px;
+}
+
+
+
+
+
+
+/*=======================================
+    PRICE SECTION STYLES
+==================================================*/
+
+.plan {
+    background: #fff;
+    padding: 0 0 15px 0;
+    margin: 30px 0px;
+    list-style: none;
+    text-align: center;
+  
+}
+
+
+
+.plan li {
+ padding: 15px 0px;
+color: #000000;
+font-size: 15px;
+}
+
+.plan li.plan-head {
+   padding: 15px 0px;
+color: #FFFFFF;
+line-height: 20px;
+font-size: 20px;
+font-weight: 600;
+border: none;
+   }
+
+.plan li.main-price {
+padding: 15px 0px;
+background-color: rgba(127, 115, 177, 1);
+color: #fff;
+border: none;
+font-weight: 900;
+font-size: 30px;
+}
